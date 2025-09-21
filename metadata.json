@@ -1,0 +1,5 @@
+{
+  "name": "AI Trip Planner",
+  "description": "An AI-powered trip planner that dynamically creates personalized end-to-end itineraries based on user inputs like budget, dates, destination, interests, and preferred pace.",
+  "requestFramePermissions": []
+}
