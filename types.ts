@@ -35,3 +35,11 @@ export interface Itinerary {
   dailyPlan: DayPlan[];
   costBreakdown: CostBreakdownItem[];
 }
+
+export interface Traveller {
+  id: number;
+  fullName: string;
+  gender: 'male' | 'female' | 'other' | '';
+  dateOfBirth: string;
+  verificationId: string;
+}
